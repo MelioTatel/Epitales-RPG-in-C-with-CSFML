@@ -1,0 +1,20 @@
+USAGE
+
+./my_rpg [OPTION]
+-h : print this page.
+No option, launch the game.
+
+DESCRIPTIONS
+
+my_cook is an Epitech Project made by :
+- Arthur MALARDÉ
+- Eddy DESPAGNE
+- Nicolas AH-LEUNG
+
+INTERACTIONS
+
+Use ARROW keys to move.
+Press E to interact.
+Press ENTER to skip a dialog or to confirm an action.
+Press any key to skip introduction.
+Press the ESCAPE key to pause the game.
